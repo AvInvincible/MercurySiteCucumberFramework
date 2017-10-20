@@ -3,7 +3,6 @@ package utils;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
-
 import browser.SupportedBrowser;
 import propertiesReaderInterface.ConfigReader;
 
@@ -15,7 +14,7 @@ public class PropertiesReader implements ConfigReader{
 	public PropertiesReader() {
 		prop = new Properties();
 		try {
-			prop.load(ResourcePathHelper.getFileInputStream("\\src\\test\\resources\\testData\\config.properties"));
+			prop.load(ResourcePathHelper.getFileInputStream("\\src\\main\\resources\\testData\\config.properties"));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {

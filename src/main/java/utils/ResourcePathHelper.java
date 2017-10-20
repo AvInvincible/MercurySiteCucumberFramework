@@ -9,7 +9,7 @@ public class ResourcePathHelper {
 	public static String getResourcePath(String res) {
 		
 		String path = System.getProperty("user.dir")+res; 
-		//System.out.println(path);
+		System.out.println(path);
 		return path;
 	}
 	
@@ -18,8 +18,14 @@ public class ResourcePathHelper {
 	}
 	
 	public static void main(String args[]) {
-		String test = "\\src\\test\\resources\\testData\\config.properties";
-		getResourcePath(test);
+		String test = "\\src\\main\\resources\\testData\\config.properties";
+		try {
+			getFileInputStream(test);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		//getResourcePath(test);
 	}
 
 }
