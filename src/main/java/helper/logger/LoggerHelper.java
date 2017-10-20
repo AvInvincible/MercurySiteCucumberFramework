@@ -9,7 +9,7 @@ import utils.ResourcePathHelper;
 
 
 /* Created on 10 Oct, 2017, Author- Ajit Vijayee Yadav, This class file 
- * Initialize the logger file properties stored in resource/logger dir
+ * Initialize the logger file properties stored in resource/logger diretory
  */
 public class LoggerHelper {
 	
