@@ -1,0 +1,198 @@
+2017-10-21 13:14:16 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 13:14:16 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 13:14:51 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 19:54:24 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 19:54:24 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 19:54:43 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 19:54:43 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 19:55:24 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 19:55:24 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 19:55:31 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 19:55:34 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 19:55:34 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 19:55:39 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 19:55:45 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 19:55:48 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 19:55:48 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 19:55:48 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 19:55:48 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 19:55:52 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 19:55:54 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 19:57:04 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 19:57:04 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 19:57:12 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 19:57:16 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 19:57:16 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 19:57:22 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 19:57:29 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 19:57:31 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 19:57:31 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 19:57:31 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 19:57:32 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 19:57:34 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 19:57:36 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 20:08:22 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:08:22 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:08:29 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 20:08:29 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:08:29 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 20:08:33 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:08:33 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:08:37 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 20:08:46 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:08:48 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 20:08:48 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 20:08:48 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 20:08:49 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:08:53 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:08:55 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 20:11:22 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:11:22 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:11:30 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 20:11:35 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 20:11:35 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:11:35 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 20:11:36 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:11:36 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:11:41 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 20:11:47 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:11:48 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 20:13:20 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:13:20 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:13:26 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 20:13:31 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 20:13:31 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:13:31 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 20:13:32 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:13:32 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:13:36 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 20:13:40 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:13:42 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 20:13:42 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 20:13:43 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 20:13:43 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:13:48 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:13:50 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 20:20:26 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:20:33 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:25:01 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:25:59 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:29:18 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 20:30:23 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 20:31:42 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:32:02 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 20:56:27 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:56:27 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:56:34 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 20:57:37 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 20:58:58 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 20:59:49 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 20:59:50 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 20:59:50 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 20:59:55 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 20:59:58 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:00:00 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 21:00:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:00:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:00:00 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:00:03 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:00:06 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 21:06:04 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 21:06:04 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 21:06:13 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 21:06:44 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 21:06:56 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:07:16 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 21:07:18 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 21:07:18 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 21:07:22 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 21:07:27 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:07:30 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 21:07:30 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:07:30 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:07:30 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:07:33 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:07:35 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 21:17:23 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 21:17:23 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 21:17:29 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 21:17:51 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 21:22:38 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 21:22:38 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 21:22:44 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 21:22:47 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 21:22:47 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:22:49 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 21:22:49 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2017-10-21 21:22:49 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:22:49 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 21:22:49 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 21:22:49 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 21:22:53 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 21:22:57 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:23:04 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 21:23:33 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 21:23:33 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 21:23:40 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 21:23:44 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 21:23:44 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:23:46 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 21:23:46 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2017-10-21 21:23:46 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:23:46 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 21:23:47 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 21:23:47 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 21:23:52 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 21:23:57 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:23:59 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 21:23:59 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:23:59 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:23:59 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:24:02 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:24:04 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 21:37:57 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 21:37:57 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 21:38:05 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 21:38:10 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2017-10-21 21:38:10 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:38:12 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 21:38:12 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2017-10-21 21:38:12 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:13 [INFO ] [Registration] - [enterLastName] Entering user last name
+2017-10-21 21:38:13 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:13 [INFO ] [Registration] - [enterPhoneNo] Entering user phone number
+2017-10-21 21:38:13 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:13 [INFO ] [Registration] - [enterEmail] Entering user existing user email address
+2017-10-21 21:38:13 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:14 [INFO ] [Registration] - [enterAddress1] Entering user address
+2017-10-21 21:38:14 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:14 [INFO ] [Registration] - [enterAddress2] Entering user address2
+2017-10-21 21:38:14 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:15 [INFO ] [Registration] - [enterCityName] Entering user city name
+2017-10-21 21:38:15 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:15 [INFO ] [Registration] - [enterStateName] Entering user state name
+2017-10-21 21:38:15 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:15 [INFO ] [Registration] - [enterPostalCode] Entering user postal code
+2017-10-21 21:38:15 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:16 [INFO ] [Registration] - [enterCountryName] Entering user country name
+2017-10-21 21:38:16 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2017-10-21 21:38:16 [INFO ] [Registration] - [enterUserName] Entering username
+2017-10-21 21:38:16 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:16 [INFO ] [Registration] - [enterUserPassword] Entering user password! Don't ask me i won't tell you(Ask Ajit)
+2017-10-21 21:38:16 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:17 [INFO ] [Registration] - [enterUserConPassword] Confirming user password
+2017-10-21 21:38:17 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:17 [INFO ] [Registration] - [clickRegister] That's all user is register
+2017-10-21 21:38:17 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:38:20 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 21:38:20 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2017-10-21 21:38:21 [INFO ] [ConfigManifest] - [before] Starting Testing
+2017-10-21 21:38:21 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2017-10-21 21:38:27 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2017-10-21 21:38:31 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:38:33 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2017-10-21 21:38:33 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:34 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2017-10-21 21:38:34 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:38:37 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2017-10-21 21:38:39 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver

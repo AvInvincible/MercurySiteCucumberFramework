@@ -17,7 +17,7 @@ public class SignIn {
 	
 	
 	/* //This class contains actions that need to be performed on the page element */
-	static CommonWrappers dataInc = new CommonWrappers();
+	static CommonWrappers action = new CommonWrappers();
 	/* Class for reading test data that are * entered in SingnIn page elements */
 	static PropertiesReader readTestData = new PropertiesReader();
 	
@@ -26,15 +26,15 @@ public class SignIn {
 	/* --------------Method to check if mercury-site page loaded successfully ------------*/
 	public static void getMercury() {
 		String path = readTestData.readData("url");
-		dataInc.getUrl(path, ConfigManifest.driver);
+		action.getUrl(path, ConfigManifest.driver);
 	}
 	/*--------------------------------------------------------------------------------*/
 	
 	
 	/* --------------Method to check if signIn page loaded successfully ------------*/
 	public static boolean signInPageLoad() {
-		dataInc.clickLink(sSignPage, ConfigManifest.driver);
-		dataInc.waitUntilElementisLocated(sSignPage, ConfigManifest.driver, 30);
+		action.clickAction(sSignPage, ConfigManifest.driver);
+		action.waitUntilElementisLocated(sSignPage, ConfigManifest.driver, 30);
 		String signInPageTitle = ConfigManifest.driver.getTitle();
 		if(signInPageTitle.equalsIgnoreCase("Sign-on: Mercury Tours")) {
 			return true;
@@ -47,25 +47,25 @@ public class SignIn {
 	
 	/*-------------- Method to enter data into the signIn fields& Submitting --------- */
 	public static void enterUserName(String userName){
-		dataInc.waitUntilElementisLocated(sUserName, ConfigManifest.driver, 30);
-		dataInc.enterData(sUserName, ConfigManifest.driver, userName);
+		action.waitUntilElementisLocated(sUserName, ConfigManifest.driver, 30);
+		action.enterData(sUserName, ConfigManifest.driver, userName);
 	}
 	
 	public static void enterUserPassword(String userPassword){
-		dataInc.enterData(sUserPassword, ConfigManifest.driver, userPassword);
+		action.enterData(sUserPassword, ConfigManifest.driver, userPassword);
 	}
 	
 	public static void clickSignIn(){
-		dataInc.clickLink(sLogin, ConfigManifest.driver);
+		action.clickAction(sLogin, ConfigManifest.driver);
 	}
 	
 	public static boolean siginTitle() {
 		String signInpageTitle = ConfigManifest.driver.getTitle();
 		if(signInpageTitle.equalsIgnoreCase("Find a Flight: Mercury Tours:")) {
-			dataInc.clickLink(sLogout, ConfigManifest.driver);
+			action.clickAction(sLogout, ConfigManifest.driver);
 			return true;
 		}else {
-			dataInc.clickLink(sLogout, ConfigManifest.driver);
+			action.clickAction(sLogout, ConfigManifest.driver);
 			return false;
 		}
 	}

@@ -15,7 +15,7 @@ import helper.logger.LoggerHelper;
  */
 public class ConfigManifest {
 	
-	private final Logger log = LoggerHelper.getLogger(ConfigManifest.class);
+	private final static Logger log = LoggerHelper.getLogger(ConfigManifest.class);
 	
 	public static WebDriver driver;
 	
@@ -26,15 +26,18 @@ public class ConfigManifest {
 			
 			switch(type) {
 				case Chrome:
+					log.info("Initilizing Chrome browser");
 					ChromeBrowser chrome = ChromeBrowser.class.newInstance();
 					return chrome.getChromeDriver(chrome.getChromeCapabilities());
 					
 				case FireFox:
+					log.info("Initilizing FireFox browser");
 					FireFoxBroswer firefox = FireFoxBroswer.class.newInstance();
 					return firefox.getFireFoxDriver();
 				
 				default:
 					System.out.print("AJ3"+type);
+					log.info("Initilizing Problem, Something went wrong");
 					System.out.println("Some thing went wrong!");
 				}
 			} 
@@ -53,6 +56,7 @@ public class ConfigManifest {
 	public void before(){
 		PropertiesReader reader = new PropertiesReader();
 		try {
+			log.info("Starting Testing");
 			setUpDriver(reader.getBrowser());
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -61,6 +65,7 @@ public class ConfigManifest {
 
 	@After()
 	public void after(){
+		log.info("Testing done, closing the driver");
 		driver.quit();
 	}
 

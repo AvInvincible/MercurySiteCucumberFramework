@@ -5,7 +5,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @Cucumber.Options(features = {"classpath:"}, glue = {
-		"classpath:stepdefinations", "classpath:utils", "classpath:resources"})
-public class SignInRunner {
+		"classpath:stepdefinations", "classpath:utils", "classpath:resources"},tags = "@smoke")
+public class SmokeRunner {
 
 }
