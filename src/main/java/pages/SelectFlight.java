@@ -27,4 +27,10 @@ public class SelectFlight {
 	public static void selectFindFlights() {
 		action.clickAction(reserveFlights, ConfigManifest.driver);
 	}
+	
+	public static void selectFlightTest() {
+		selectserviceClass();
+		selectAirline();
+		selectFindFlights();
+	}
 }

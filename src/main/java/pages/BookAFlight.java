@@ -12,7 +12,7 @@ import utils.ConfigManifest;
  */
 public class BookAFlight {
 
-	static By passFirstName = By.xpath("//input[@name='passFirst0']']");
+	static By passFirstName = By.xpath("//input[@name='passFirst0']");
 	static By passLastName = By.xpath("//input[@name='passLast0']");
 	static By passMealType = By.xpath("//select[@name='pass.0.meal']");
 	static By creditCard = By.xpath("//select[@name='creditCard']");
@@ -45,7 +45,7 @@ public class BookAFlight {
 	
 	public static void inputPassLastName() {
 		String passFirstNameValue = "kepler";
-		action.enterData(passFirstName, ConfigManifest.driver, passFirstNameValue);
+		action.enterData(passLastName, ConfigManifest.driver, passFirstNameValue);
 	}
 	
 	public static void selectPassMealType() {
@@ -75,5 +75,95 @@ public class BookAFlight {
 		action.selectOptionAction(cardExpYear, ConfigManifest.driver, cardExpYearValue);
 	}
 	
-
+	public static void inputCardHolderFName() {
+		String cardHolderFNameValue = "Ajit";
+		action.enterData(cardHolderFName, ConfigManifest.driver, cardHolderFNameValue);
+	}
+	
+	public static void inputCardHolderMName() {
+		String cardHolderMNameValue = "M.";
+		action.enterData(cardHolderMName, ConfigManifest.driver, cardHolderMNameValue);
+	}
+	
+	public static void inputCardHolderLName() {
+		String cardHolderLNameValue = "Kepler";
+		action.enterData(cardHolderLName, ConfigManifest.driver, cardHolderLNameValue);
+	}
+	
+	public static void inputBillAddress() {
+		String billAddressValue = "1325 Borregas Ave.";
+		action.enterData(billAddress, ConfigManifest.driver, billAddressValue);
+	}
+	
+	public static void inputBillCity() {
+		String billCityValue = "Sunnyvale";
+		action.enterData(billCity, ConfigManifest.driver, billCityValue);
+	}
+	
+	public static void inputBillState() {
+		String billStateValue = "CA";
+		action.enterData(billState, ConfigManifest.driver, billStateValue);
+	}
+	
+	public static void inputBillZip() {
+		String billZipValue = "94089";
+		action.enterData(billZip, ConfigManifest.driver, billZipValue);
+	}
+	
+	public static void selectCountry() {
+		String billCountryValue =  "UNITED STATES";
+		action.selectOptionAction(billCountry, ConfigManifest.driver, billCountryValue);
+	}
+	
+	public static void inputDelAddress() {
+		String delAddressValue = "1325 Borregas Ave.";
+		action.enterData(delAddress, ConfigManifest.driver, delAddressValue);
+	}
+	
+	public static void inputDelCity() {
+		String delCityValue = "Sunnyvale";
+		action.enterData(delCity, ConfigManifest.driver, delCityValue);
+	}
+	
+	public static void inputDelState() {
+		String delStateValue = "CA";
+		action.enterData(delState, ConfigManifest.driver, delStateValue);
+	}
+	
+	public static void inputDelZip() {
+		String delZipValue = "94089";
+		action.enterData(delZip, ConfigManifest.driver, delZipValue);
+	}
+	
+	public static void selectDelCountry() {
+		String delCountryValue =  "UNITED STATES";
+		action.selectOptionAction(delCountry, ConfigManifest.driver, delCountryValue);
+	}
+	
+	public static void bookFlightTest() {
+		inputPassFirstName();
+		inputPassLastName();
+		selectPassMealType();
+		
+		selectCreditCard();
+		inputCardNo();
+		selectExpMonth();
+		selectExpYear();
+		
+		inputCardHolderFName();
+		inputCardHolderMName();
+		inputCardHolderLName();
+		
+		inputBillAddress();
+		inputBillCity();
+		inputBillState();
+		inputBillZip();
+		selectCountry();
+		
+		inputDelAddress();
+		inputDelCity();
+		inputDelState();
+		inputDelZip();
+		selectDelCountry();
+	}
 }

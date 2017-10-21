@@ -78,4 +78,23 @@ public class FlightFinder {
 	public static void selectFindFlights() {
 		action.clickAction(findFlights, ConfigManifest.driver);
 	}
+	
+	public static void findFlightTest() {
+		selectTripType();
+		selectPassengerCount();
+		
+		selectFromPort();
+		selectfromMonth();
+		selectfromDay();
+		
+		selectToPort();
+		selectToMonth();
+		selectToDay();
+		
+		selectserviceClass();
+		selectAirline();
+		//selectFindFlights();
+	}
+
 }
+

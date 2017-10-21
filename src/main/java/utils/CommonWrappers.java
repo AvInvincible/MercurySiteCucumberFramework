@@ -39,7 +39,9 @@ public class CommonWrappers {
 	public void enterData(By path, WebDriver eDriver, String data){
 		this.eDriver = eDriver;
 		log.info("Entering data in input field");
-		eDriver.findElement(path).sendKeys(data);
+		WebElement eTest = eDriver.findElement(path);
+		eTest.clear();
+		eTest.sendKeys(data);
 	}
 	
 	/* Method to select option from the select dropdown */

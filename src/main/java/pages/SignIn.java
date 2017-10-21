@@ -86,4 +86,11 @@ public class SignIn {
 	}
 	/* -------------------------------------------------------------------------------*/
 	
+	
+	public static void signInTest() {
+		signInPageLoad();
+		try {signInTestValidData();
+		} catch (IOException e) {e.printStackTrace();}
+		clickSignIn();
+	}
 }
