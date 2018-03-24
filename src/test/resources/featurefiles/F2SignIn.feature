@@ -1,7 +1,7 @@
 Feature: Login into the Mercury site
 Author: Ajit Vijayee Yadav
 
-@smoke
+@regression
 Scenario: Login into the mercury site with valid credentials
 Given Navigate to mercury site website
 And Click on signin link to navigate to signIn page
