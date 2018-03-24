@@ -1,7 +1,7 @@
 Feature: Booking Flight roundTrip
 Author: Ajit Vijayee Yadav
 
-@smoke
+@regression
 Scenario: Book flight round Trip 
 Given Navigate to mercury site website
 And SignIn into the mercury portal

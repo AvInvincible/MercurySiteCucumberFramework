@@ -17,6 +17,7 @@ task MyTest{
             main = "org.junit.runner.JUnitCore"
             classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
             args = [System.properties["testPackage"] + System.properties["test"]]
+            systemProperties = System.properties
         }
     }
 }

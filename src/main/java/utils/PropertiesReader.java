@@ -24,7 +24,13 @@ public class PropertiesReader implements ConfigReader{
 
 	/* Method to return value*/
 	public String readData(String x){
-		String data = prop.getProperty(x);
+		String data = null;
+		if(System.getProperty("buildWithBuildTool").equalsIgnoreCase("false")) {
+			data = prop.getProperty(x);
+		}else {
+			System.out.println(x);
+			data = System.getProperty(x);
+		}
 		return data;
 	}
 
