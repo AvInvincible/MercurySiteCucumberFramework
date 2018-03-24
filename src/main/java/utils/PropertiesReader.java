@@ -7,10 +7,10 @@ import browser.SupportedBrowser;
 import propertiesReaderInterface.ConfigReader;
 
 /* Read the data from the config properties file */
-public class PropertiesReader implements ConfigReader{
-	
+public class PropertiesReader implements ConfigReader {
+
 	private Properties prop = null;
-	
+
 	public PropertiesReader() {
 		prop = new Properties();
 		try {
@@ -22,28 +22,40 @@ public class PropertiesReader implements ConfigReader{
 		}
 	}
 
-	/* Method to return value*/
-	public String readData(String x){
+	/* Method to return value */
+	public String readData(String x) {
+		String data = prop.getProperty(x);
+		return data;
+	}
+
+	/* Method to return value */
+	public String readConfigData(String x) {
 		String data = null;
-		if(System.getProperty("buildWithBuildTool").equalsIgnoreCase("false")) {
+		try {
+			if (System.getProperty("buildWithBuildTool").equalsIgnoreCase("true")) {
+				data = System.getProperty(x);
+			}
+		} catch (Exception e) {
 			data = prop.getProperty(x);
-		}else {
-			System.out.println(x);
-			data = System.getProperty(x);
 		}
 		return data;
 	}
 
 	public SupportedBrowser getBrowser() {
-		//System.out.println(prop.getProperty("browserTorunOn"));
-		return SupportedBrowser.valueOf(prop.getProperty("browserTorunOn"));
+		SupportedBrowser data = null;
+		try {
+			if (System.getProperty("buildWithBuildTool").equalsIgnoreCase("true")) {
+				data = SupportedBrowser.valueOf(System.getProperty("browserTorunOn"));
+			}
+		} catch (Exception e) {
+			data = SupportedBrowser.valueOf(prop.getProperty("browserTorunOn"));
+		}
+		return data;
 	}
-	
+
 	public static void main(String args[]) {
 		PropertiesReader read = new PropertiesReader();
 		read.getBrowser();
 	}
-	
-	
 
 }

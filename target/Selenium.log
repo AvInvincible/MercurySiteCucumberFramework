@@ -1315,3 +1315,114 @@
 2018-03-24 19:00:43 [INFO ] [Registration] - [loadRegPage] Clicking on register link
 2018-03-24 19:00:43 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
 2018-03-24 19:00:43 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:47:01 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:47:03 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:47:03 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:47:03 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:47:03 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:47:03 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:49:46 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:49:46 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:49:46 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:49:46 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:49:46 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:49:46 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:55:45 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:55:47 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-24 22:55:47 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:55:47 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:55:47 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-24 22:55:47 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:55:47 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:55:47 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-24 22:55:47 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:57:26 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:57:26 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing FireFox browser
+2018-03-24 22:58:55 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-24 22:59:00 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2018-03-24 22:59:00 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 22:59:02 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-24 22:59:03 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2018-03-24 22:59:03 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:03 [INFO ] [Registration] - [enterLastName] Entering user last name
+2018-03-24 22:59:03 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:03 [INFO ] [Registration] - [enterPhoneNo] Entering user phone number
+2018-03-24 22:59:03 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:03 [INFO ] [Registration] - [enterEmail] Entering user existing user email address
+2018-03-24 22:59:03 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:03 [INFO ] [Registration] - [enterAddress1] Entering user address
+2018-03-24 22:59:03 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:04 [INFO ] [Registration] - [enterAddress2] Entering user address2
+2018-03-24 22:59:04 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:04 [INFO ] [Registration] - [enterCityName] Entering user city name
+2018-03-24 22:59:04 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:04 [INFO ] [Registration] - [enterStateName] Entering user state name
+2018-03-24 22:59:04 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:04 [INFO ] [Registration] - [enterPostalCode] Entering user postal code
+2018-03-24 22:59:04 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:04 [INFO ] [Registration] - [enterCountryName] Entering user country name
+2018-03-24 22:59:04 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 22:59:04 [INFO ] [Registration] - [enterUserName] Entering username
+2018-03-24 22:59:04 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:05 [INFO ] [Registration] - [enterUserPassword] Entering user password! Don't ask me i won't tell you(Ask Ajit)
+2018-03-24 22:59:05 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:05 [INFO ] [Registration] - [enterUserConPassword] Confirming user password
+2018-03-24 22:59:05 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:06 [INFO ] [Registration] - [clickRegister] That's all user is register
+2018-03-24 22:59:06 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 22:59:10 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-24 22:59:10 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:59:11 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:59:11 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing FireFox browser
+2018-03-24 22:59:27 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-24 22:59:30 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 22:59:33 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-24 22:59:33 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:33 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:33 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 22:59:36 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 22:59:37 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 22:59:38 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 22:59:38 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing FireFox browser
+2018-03-24 22:59:54 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-24 22:59:58 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 22:59:59 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-24 22:59:59 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-24 22:59:59 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:59 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 22:59:59 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:00:02 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:00:02 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:02 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:02 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:02 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:02 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:03 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:03 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:03 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:00:03 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:03 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:00:05 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:00:05 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:00:06 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:00:07 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:07 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:07 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:08 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:08 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:08 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:08 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:08 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:09 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:09 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:09 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:09 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:09 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:09 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:09 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:09 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:09 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:10 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:10 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:00:10 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:00:10 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver

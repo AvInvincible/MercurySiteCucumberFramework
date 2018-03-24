@@ -25,7 +25,7 @@ public class SignIn {
 	
 	/* --------------Method to check if mercury-site page loaded successfully ------------*/
 	public static void getMercury() {
-		String path = readTestData.readData("url");
+		String path = readTestData.readConfigData("url");
 		action.getUrl(path, ConfigManifest.driver);
 	}
 	/*--------------------------------------------------------------------------------*/
