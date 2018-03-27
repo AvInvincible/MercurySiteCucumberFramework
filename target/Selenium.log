@@ -1426,3 +1426,190 @@
 2018-03-24 23:00:10 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
 2018-03-24 23:00:10 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
 2018-03-24 23:00:10 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 23:54:53 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 23:54:53 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2018-03-24 23:55:25 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-24 23:55:30 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2018-03-24 23:55:30 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:55:32 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-24 23:55:32 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2018-03-24 23:55:32 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:32 [INFO ] [Registration] - [enterLastName] Entering user last name
+2018-03-24 23:55:32 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:32 [INFO ] [Registration] - [enterPhoneNo] Entering user phone number
+2018-03-24 23:55:32 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:32 [INFO ] [Registration] - [enterEmail] Entering user existing user email address
+2018-03-24 23:55:32 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:33 [INFO ] [Registration] - [enterAddress1] Entering user address
+2018-03-24 23:55:33 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:33 [INFO ] [Registration] - [enterAddress2] Entering user address2
+2018-03-24 23:55:33 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:34 [INFO ] [Registration] - [enterCityName] Entering user city name
+2018-03-24 23:55:34 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:34 [INFO ] [Registration] - [enterStateName] Entering user state name
+2018-03-24 23:55:34 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:34 [INFO ] [Registration] - [enterPostalCode] Entering user postal code
+2018-03-24 23:55:34 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:35 [INFO ] [Registration] - [enterCountryName] Entering user country name
+2018-03-24 23:55:35 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:55:35 [INFO ] [Registration] - [enterUserName] Entering username
+2018-03-24 23:55:35 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:36 [INFO ] [Registration] - [enterUserPassword] Entering user password! Don't ask me i won't tell you(Ask Ajit)
+2018-03-24 23:55:36 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:36 [INFO ] [Registration] - [enterUserConPassword] Confirming user password
+2018-03-24 23:55:36 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:55:36 [INFO ] [Registration] - [clickRegister] That's all user is register
+2018-03-24 23:55:36 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:55:39 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-24 23:55:39 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-24 23:56:04 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-24 23:56:04 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing FireFox browser
+2018-03-24 23:57:06 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-24 23:57:11 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2018-03-24 23:57:11 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:57:12 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-24 23:57:13 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2018-03-24 23:57:13 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:13 [INFO ] [Registration] - [enterLastName] Entering user last name
+2018-03-24 23:57:13 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:13 [INFO ] [Registration] - [enterPhoneNo] Entering user phone number
+2018-03-24 23:57:13 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:13 [INFO ] [Registration] - [enterEmail] Entering user existing user email address
+2018-03-24 23:57:13 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:14 [INFO ] [Registration] - [enterAddress1] Entering user address
+2018-03-24 23:57:14 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:14 [INFO ] [Registration] - [enterAddress2] Entering user address2
+2018-03-24 23:57:14 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:14 [INFO ] [Registration] - [enterCityName] Entering user city name
+2018-03-24 23:57:14 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:15 [INFO ] [Registration] - [enterStateName] Entering user state name
+2018-03-24 23:57:15 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:15 [INFO ] [Registration] - [enterPostalCode] Entering user postal code
+2018-03-24 23:57:15 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:15 [INFO ] [Registration] - [enterCountryName] Entering user country name
+2018-03-24 23:57:15 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-24 23:57:15 [INFO ] [Registration] - [enterUserName] Entering username
+2018-03-24 23:57:15 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:15 [INFO ] [Registration] - [enterUserPassword] Entering user password! Don't ask me i won't tell you(Ask Ajit)
+2018-03-24 23:57:15 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:15 [INFO ] [Registration] - [enterUserConPassword] Confirming user password
+2018-03-24 23:57:15 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-24 23:57:15 [INFO ] [Registration] - [clickRegister] That's all user is register
+2018-03-24 23:57:15 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-24 23:57:18 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-24 23:57:19 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-27 22:40:16 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-27 22:40:16 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing FireFox browser
+2018-03-27 22:40:53 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-27 22:40:58 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2018-03-27 22:40:58 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-27 22:40:59 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-27 22:40:59 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2018-03-27 22:40:59 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:00 [INFO ] [Registration] - [enterLastName] Entering user last name
+2018-03-27 22:41:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:00 [INFO ] [Registration] - [enterPhoneNo] Entering user phone number
+2018-03-27 22:41:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:00 [INFO ] [Registration] - [enterEmail] Entering user existing user email address
+2018-03-27 22:41:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:00 [INFO ] [Registration] - [enterAddress1] Entering user address
+2018-03-27 22:41:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:00 [INFO ] [Registration] - [enterAddress2] Entering user address2
+2018-03-27 22:41:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:00 [INFO ] [Registration] - [enterCityName] Entering user city name
+2018-03-27 22:41:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:00 [INFO ] [Registration] - [enterStateName] Entering user state name
+2018-03-27 22:41:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:00 [INFO ] [Registration] - [enterPostalCode] Entering user postal code
+2018-03-27 22:41:00 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:00 [INFO ] [Registration] - [enterCountryName] Entering user country name
+2018-03-27 22:41:00 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-27 22:41:01 [INFO ] [Registration] - [enterUserName] Entering username
+2018-03-27 22:41:01 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:01 [INFO ] [Registration] - [enterUserPassword] Entering user password! Don't ask me i won't tell you(Ask Ajit)
+2018-03-27 22:41:01 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:01 [INFO ] [Registration] - [enterUserConPassword] Confirming user password
+2018-03-27 22:41:01 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:41:01 [INFO ] [Registration] - [clickRegister] That's all user is register
+2018-03-27 22:41:01 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-27 22:41:06 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-27 22:41:57 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-27 22:41:57 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2018-03-27 22:42:05 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-27 22:42:08 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2018-03-27 22:42:08 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-27 22:42:10 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-27 22:42:10 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2018-03-27 22:42:10 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:42:10 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-27 22:48:29 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-27 22:48:29 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing Chrome browser
+2018-03-27 22:48:36 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-27 22:48:42 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2018-03-27 22:48:42 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-27 22:48:44 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-27 22:48:44 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2018-03-27 22:48:44 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:44 [INFO ] [Registration] - [enterLastName] Entering user last name
+2018-03-27 22:48:44 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:45 [INFO ] [Registration] - [enterPhoneNo] Entering user phone number
+2018-03-27 22:48:45 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:45 [INFO ] [Registration] - [enterEmail] Entering user existing user email address
+2018-03-27 22:48:45 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:45 [INFO ] [Registration] - [enterAddress1] Entering user address
+2018-03-27 22:48:45 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:46 [INFO ] [Registration] - [enterAddress2] Entering user address2
+2018-03-27 22:48:46 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:46 [INFO ] [Registration] - [enterCityName] Entering user city name
+2018-03-27 22:48:46 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:46 [INFO ] [Registration] - [enterStateName] Entering user state name
+2018-03-27 22:48:46 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:46 [INFO ] [Registration] - [enterPostalCode] Entering user postal code
+2018-03-27 22:48:46 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:47 [INFO ] [Registration] - [enterCountryName] Entering user country name
+2018-03-27 22:48:47 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-27 22:48:47 [INFO ] [Registration] - [enterUserName] Entering username
+2018-03-27 22:48:47 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:47 [INFO ] [Registration] - [enterUserPassword] Entering user password! Don't ask me i won't tell you(Ask Ajit)
+2018-03-27 22:48:47 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:47 [INFO ] [Registration] - [enterUserConPassword] Confirming user password
+2018-03-27 22:48:47 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:48:48 [INFO ] [Registration] - [clickRegister] That's all user is register
+2018-03-27 22:48:48 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-27 22:49:06 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-27 22:49:06 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-03-27 22:49:57 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-03-27 22:49:57 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing FireFox browser
+2018-03-27 22:50:14 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-03-27 22:50:18 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2018-03-27 22:50:18 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterLastName] Entering user last name
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterPhoneNo] Entering user phone number
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterEmail] Entering user existing user email address
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterAddress1] Entering user address
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterAddress2] Entering user address2
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterCityName] Entering user city name
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterStateName] Entering user state name
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterPostalCode] Entering user postal code
+2018-03-27 22:50:20 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:20 [INFO ] [Registration] - [enterCountryName] Entering user country name
+2018-03-27 22:50:21 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-03-27 22:50:21 [INFO ] [Registration] - [enterUserName] Entering username
+2018-03-27 22:50:21 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:21 [INFO ] [Registration] - [enterUserPassword] Entering user password! Don't ask me i won't tell you(Ask Ajit)
+2018-03-27 22:50:21 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:21 [INFO ] [Registration] - [enterUserConPassword] Confirming user password
+2018-03-27 22:50:21 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-03-27 22:50:21 [INFO ] [Registration] - [clickRegister] That's all user is register
+2018-03-27 22:50:21 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-03-27 22:50:27 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
