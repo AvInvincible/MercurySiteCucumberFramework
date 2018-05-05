@@ -1613,3 +1613,48 @@
 2018-03-27 22:50:21 [INFO ] [Registration] - [clickRegister] That's all user is register
 2018-03-27 22:50:21 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
 2018-03-27 22:50:27 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-05-05 19:00:25 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-05-05 19:00:25 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing FireFox browser
+2018-05-05 19:02:11 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-05-05 19:02:18 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2018-05-05 19:02:18 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-05-05 19:02:21 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-05-05 19:02:21 [INFO ] [Registration] - [enterFirstName] Entering user first name
+2018-05-05 19:02:21 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:21 [INFO ] [Registration] - [enterLastName] Entering user last name
+2018-05-05 19:02:21 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:22 [INFO ] [Registration] - [enterPhoneNo] Entering user phone number
+2018-05-05 19:02:22 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:22 [INFO ] [Registration] - [enterEmail] Entering user existing user email address
+2018-05-05 19:02:22 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:22 [INFO ] [Registration] - [enterAddress1] Entering user address
+2018-05-05 19:02:22 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:22 [INFO ] [Registration] - [enterAddress2] Entering user address2
+2018-05-05 19:02:22 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:22 [INFO ] [Registration] - [enterCityName] Entering user city name
+2018-05-05 19:02:22 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:22 [INFO ] [Registration] - [enterStateName] Entering user state name
+2018-05-05 19:02:22 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:22 [INFO ] [Registration] - [enterPostalCode] Entering user postal code
+2018-05-05 19:02:22 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:22 [INFO ] [Registration] - [enterCountryName] Entering user country name
+2018-05-05 19:02:22 [INFO ] [CommonWrappers] - [selectOptionAction] Performing select action
+2018-05-05 19:02:23 [INFO ] [Registration] - [enterUserName] Entering username
+2018-05-05 19:02:23 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:23 [INFO ] [Registration] - [enterUserPassword] Entering user password! Don't ask me i won't tell you(Ask Ajit)
+2018-05-05 19:02:23 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:23 [INFO ] [Registration] - [enterUserConPassword] Confirming user password
+2018-05-05 19:02:23 [INFO ] [CommonWrappers] - [enterData] Entering data in input field
+2018-05-05 19:02:23 [INFO ] [Registration] - [clickRegister] That's all user is register
+2018-05-05 19:02:23 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-05-05 19:02:26 [INFO ] [CommonWrappers] - [waitUntilElementisLocated] Wating for the element
+2018-05-05 19:02:27 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-05-05 20:03:09 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-05-05 20:03:09 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing FireFox browser
+2018-05-05 20:04:37 [INFO ] [CommonWrappers] - [getUrl] Access the url
+2018-05-05 20:04:55 [INFO ] [Registration] - [loadRegPage] Clicking on register link
+2018-05-05 20:04:55 [INFO ] [CommonWrappers] - [clickAction] Performing click on the link
+2018-05-05 20:05:01 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
+2018-05-05 20:23:39 [INFO ] [ConfigManifest] - [before] Starting Testing
+2018-05-05 20:23:39 [INFO ] [ConfigManifest] - [getBrowserHandle] Initilizing FireFox browser
+2018-05-05 20:25:45 [INFO ] [ConfigManifest] - [after] Testing done, closing the driver
