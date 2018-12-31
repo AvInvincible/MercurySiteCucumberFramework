@@ -2,7 +2,7 @@
 
 MercurySitecucumberFramework is an Automation Framework based on BDD approach -
 
-Tools - 
-Language - Java, Selenium WebDriver, XML
-BDD Tool - Cucumber
-Build Tool - Gradle
+Tools -<br> 
+Language - Java, Selenium WebDriver, XML<br>
+BDD Tool - Cucumber<br>
+Build Tool - Gradle<br>
